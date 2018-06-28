@@ -1,0 +1,10 @@
+com/louisrong/dto/UserinfoResponse.class
+com/louisrong/rest/RestApiApplication.class
+com/louisrongentity/Guest.class
+com/louisrong/service/UserInfoService.class
+com/louisrongentity/Userinformation.class
+com/louisrongentity/Employee.class
+com/louisrong/rest/MicroResource.class
+com/louisrong/dto/UserinfoDto.class
+com/louisrong/dto/UserinfoRequest.class
+com/louisrong/jpa/EntityManagerProvider.class
